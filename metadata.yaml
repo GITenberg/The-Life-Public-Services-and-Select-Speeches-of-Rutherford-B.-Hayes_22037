@@ -1,0 +1,30 @@
+_repo: The-Life-Public-Services-and-Select-Speeches-of-Rutherford-B.-Hayes_22037
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Howard, J. Q. (James Quay)
+    alias: Howard, James Quay
+    birthdate: 1836
+    deathdate: 1912
+    gutenberg_agent_id: '25052'
+    url: http://www.gutenberg.org/2009/agents/25052
+description: ''
+gutenberg_issued: '2007-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22037'
+  lccn: '11021816'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Presidents -- United States -- Biography'
+- !lcsh 'Hayes, Rutherford Birchard, 1822-1893'
+- !lcc 'E660'
+- !lcsh 'United States -- Politics and government -- 1865-1877'
+title: The Life, Public Services and Select Speeches of Rutherford B. Hayes
+url: http://www.gutenberg.org/ebooks/22037
